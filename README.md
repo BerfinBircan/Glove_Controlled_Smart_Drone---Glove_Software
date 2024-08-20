@@ -1,2 +1,2 @@
 # Glove_Controlled_Smart_Drone---Glove_Software
-This is my groups Senior Design Project with the objective to build a smart drone that is controlled by a glove. The main users for this device are first responders, so they can use the drone while still having one hand free during crucial situations.
+This repository contains our Senior Design Project, where we developed a smart drone controlled by a glove. Designed with first responders in mind, this system allows them to operate the drone with one hand, keeping the other hand free for critical tasks in emergency situations.
